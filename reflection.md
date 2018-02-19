@@ -25,3 +25,5 @@ Solo is good for now, Pair might needed in future for harder problems.
 <b>What will you do differently next week?</b>
 
 Block out time in my calendar!
+
+I give myself a 4 out of 10 for effort. I have completed 23% of the Codeacademy course so far, which is about 2.5 hrs.
